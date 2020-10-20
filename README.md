@@ -1,3 +1,6 @@
+It is a study of properties and methods of class Stream (Dart lang)
+
+
 A sample command-line application with an entrypoint in `bin/`, library code
 in `lib/`, and example unit test in `test/`.
 
